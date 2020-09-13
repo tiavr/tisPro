@@ -17,6 +17,7 @@ plusieurs ordonnanceurs spécialisés (multitache, il gere l'ordre dans lequel l
 services réseau
 supports réseau,
 certains noyaux fournissent également des modèles de pilotes pour le matériel.
+qui réalise les fonctions fondamentales comme l'exécution des programmes, l'accès aux fichiers, la gestion des utilisateurs et de la mémoire vive, et le transfert de données vers les périphériques (entrées/sorties).
 
 2 types de noyaux : miro-npyaux et monolithiques
 monolithiques : obsolète car difficile à maintenir car augmentation du nombre de pilotes matériels compilés par le noyau
